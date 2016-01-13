@@ -1,0 +1,28 @@
+name: ActiveJoe.net
+favicon: null
+layout_spectrum: 0.08012632303871214
+typography_spectrum: 0.3236457675229758
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8762653223238885
+  lightness: 0.8287912823725492
+  saturation: 0.5618699551559985
+  rhythmicContrast: 0.08298470173031092
+purpose: []
