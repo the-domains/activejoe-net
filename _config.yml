@@ -2,6 +2,7 @@ name: ActiveJoe.net
 favicon: null
 layout_spectrum: 0.08012632303871214
 typography_spectrum: 0.3236457675229758
+title: 'Welcome to Active Joe!'
 cta:
   domain: null
   bucket: null
